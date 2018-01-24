@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="com.github.AniketDevloper1" />
+        <module name="com.github.SimpleSele" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="com.github.AniketDevloper1" target="1.8" />
+      <module name="com.github.SimpleSele" target="1.8" />
       <module name="SimpleSelenium" target="1.8" />
     </bytecodeTargetLevel>
   </component>
