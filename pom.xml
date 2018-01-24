@@ -2,10 +2,11 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.github.AniketDevloper1</groupId>
+  <!--<groupId>com.github.AniketDevloper1</groupId>-->
+  <groupId>SimplifiedSelenium</groupId>
   <!--<artifactId>com.github.AniketDevloper1</artifactId>-->
   <artifactId>com.github.SimpleSelenium</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <packaging>jar</packaging>
 
   <name>com.github.AniketDevloper1</name>
