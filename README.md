@@ -1,7 +1,7 @@
 # SimpleSelenium
 
 Repository Information
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.AniketDevloper1/com.github.AniketDevloper1/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.AniketDevloper1/com.github.AniketDevloper1/)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.AniketDevloper1/com.github.AniketDevloper1/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.AniketDevloper1/com.github.SimpleSelenium/)
 
 
 Licence Infomration
